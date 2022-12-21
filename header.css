@@ -1,0 +1,123 @@
+.header__top ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    padding-top: 17px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+.header__down{ 
+    background-image: url("../image/background__header.png");
+    padding-left: 118px;
+}
+.header__top{
+    height: 50px;
+    background: lightgray;
+}
+.header__left h2{
+    font-size: 36px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.1em;
+    color: #F13C6E;
+    padding-top: 19px;
+}
+.header__midle img{
+    position: absolute;
+    bottom: 1px;
+    top:102px;
+    left: 550px;
+    display: inline-block;
+}
+.header__midle input{
+    width:250px;
+    height:40px;
+    border-radius:40px;
+    border: 2px solid #ffffff;
+    border-radius: 40px;
+    background: lightgray;
+    margin-top: 40px;
+    outline: none;
+    padding-left: 20px;
+    
+}
+.header__mid{
+    display: flex;
+    justify-content: space-between;
+}
+.header__left{
+    display: flex;
+    text-align: center;
+    padding-top: 20px;
+    column-gap: 20px;
+}
+.header__foot{
+    display: flex;
+    column-gap: 40px;
+    text-align: center;
+}
+.header__foot button{
+    background: #FFFFFF;
+    border: 2px solid #F13C6E;
+    border-radius: 40px;
+    width: 170px;
+    height: 40px;
+    margin-top: 40px;
+}
+
+.header__foot p{
+    margin-top:50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+.header__under ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    column-gap: 40px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color:#FFFFFF;
+    padding-bottom: 50px;
+    padding-top: 192px;
+}
+.header__down p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+}
+.header__down button{
+    border: 2px solid #FFFFFF;
+    border-radius: 40px;
+    width: 170px;
+    height: 40px;
+    background: none;
+    color: #ffffff;
+    margin-bottom: 193px;
+}

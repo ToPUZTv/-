@@ -1,0 +1,16 @@
+.box__image {
+    margin-top: 100px;
+}
+.box__row{
+    display: flex;
+    justify-content: space-between;
+    background: #FFFFFF;
+
+}
+.image__card{
+    width: 25%;
+    text-align: center;
+    padding: 35px 0;
+    border: 1px solid #EFEFEF;
+}
+

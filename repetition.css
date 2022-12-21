@@ -1,0 +1,77 @@
+.box_cards{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    column-gap: 40px;
+    padding-bottom: 80px;
+}
+.card{
+    width: 255px;
+    height: 388px;
+    background: #FFFFFF;
+}
+.card__first{
+    width: 255px;
+    height: 388px;
+    background: #FFFFFF;
+}
+.card__second{
+    width: 255px;
+    height: 388px;
+    background: #FFFFFF;
+}
+.card__third{
+    width: 255px;
+    height: 388px;
+    background: #FFFFFF;
+}
+.repetition h2{
+    padding-top: 80px;
+    padding-bottom: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+.box_cards img{
+    padding-top: 25px;
+    display:inline-block;
+
+}
+.box_cards p{
+    padding-top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+.box_cards h3{
+    padding-top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+.box_cards button{
+    margin-top: 25px;
+    width: 130px;
+    height: 35px;
+    background: #F13C6E;
+    border-radius: 30px;
+    border: none;
+    color: #ffffff;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
